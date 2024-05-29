@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Renée.
+
+You might also know me as Raven, Veronika, or Waverly. I am a recent graduate with an M.A. in English Linguistics, having previously completed a B.Sc. in Computer Science. I have worked in a few industries from Engineering to Education and strive to promote interdisciplinary problem solving.
+
+### Silly Web Apps
+- HSY' color picker: https://reneeverly.com/HSYp-color-picker/
+- Chord Name Finder: https://reneeverly.com/chord-name-finder/
 
 <!--
 **reneeverly/reneeverly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
