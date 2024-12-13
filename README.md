@@ -11,6 +11,9 @@ You might also know me as Raven, Veronika, or Waverly. I am a recent graduate wi
 - A tetromino stacking game: https://github.com/reneeverly/fortran-tetris/
 - A hybrid of pacman and space invaders?: https://github.com/reneeverly/aberration-acerola-jam-0/
 
+### Teaching Tools
+- PDF/UA slide deck generator: https://github.com/reneeverly/slide-deck-template/
+
 <!--
 **reneeverly/reneeverly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
